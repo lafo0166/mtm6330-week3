@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Yantramanav:100,300,400,500,700,900');
+
 $deep-grey: #282c34;
 $white-text: rgba(255,255,255, .89);
+
+$aqua-color: rgba(26, 197, 172, 1) ;
+$yellow-color: rgba(255, 249, 82, 1) ;
+$dark-navy-color: rgba(30, 33, 68, 1);
+$white-color: rgba(255, 255, 255, 1);
+
+$h1-font: ;
+$h2-font: 'Oswald', sans-serif;
+$h3-font: 'Lobster Two', cursive;
+$p-font: 'Yantramanav', sans-serif;;
 
 body {
   background-color: $deep-grey;
